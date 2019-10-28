@@ -6,7 +6,7 @@ setcookie("order", $order, time()+3600);
 <!DOCTYPE html>
 <html>
 <head>
-	<title>li xiao keng</title>
+	<title>sun</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
 </head>
